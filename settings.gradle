@@ -1,2 +1,3 @@
 rootProject.name = 'automation.homework1.1'
+include 'src'
 
